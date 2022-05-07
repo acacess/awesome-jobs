@@ -23,11 +23,11 @@ This list includes the job hunting resources.
 
 [Find a job Canada.ca](https://www.canada.ca/en/services/jobs/opportunities.html)
 - By: Government
-- Description: Find job opportunities in the federal government and with employers across the country.
+- Intro: Find job opportunities in the federal government and with employers across the country.
 
 [Canada Job Bank](https://canadajobbank.org)
 - By: Private
-- Description: Canada Job Bank, as it is clear from the name itself that our work is to empower the youth by providing them with employment. 
+- Intro: Canada Job Bank, as it is clear from the name itself that our work is to empower the youth by providing them with employment. 
 
 [Canada Jobs](https://www.canadajobs.com)
 - By: Private
@@ -39,6 +39,14 @@ This list includes the job hunting resources.
 ## Netherland
 
 ## New Zealand
+
+[Careers New Zealand](https://www.careers.govt.nz)
+- By: Government
+- Intro: Careers New Zealand helps New Zealanders make informed learning and work decisions.
+
+[SEEK](https://www.seek.co.nz)
+- By: Private
+- Intro: New Zealand's no. 1 Employment, Career and Recruitment site.
 
 ## Norway
 
@@ -62,5 +70,5 @@ This list includes the job hunting resources.
 ---
 
 []()
-- Description:
 - By:
+- Intro:
