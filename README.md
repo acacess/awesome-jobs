@@ -6,22 +6,22 @@ This list includes the job hunting resources.
 ### [LinkedIn](https://linkedin.com)
 
 - Description:
-- By:
+- By: Private
 
 ### [Indeed](https://indeed.com)
 
 - Description:
-- By:
+- By: Private
 
 ### [Grassdoor](https://grassdoor.com)
 
 - Description:
-- By:
+- By: Private
 
 ### [NormadList](http://nomadlist.com)
 
 - Description:
-- By:
+- By: Private
 
 
 ## Canada
@@ -30,3 +30,20 @@ This list includes the job hunting resources.
 
 ## Singapore
 
+[JobsDB](https://sg.jobsdb.com/cms/about)
+- Description:
+- By: Private
+
+
+[ManPower](https://www.manpower.com.sg/jobs)
+- Description:
+- By: Private
+
+[My Careers Future](https://www.mycareersfuture.gov.sg)
+- Description:
+- By: Government
+
+
+[]()
+- Description:
+- By:
