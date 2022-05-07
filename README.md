@@ -23,10 +23,21 @@ This list includes the job hunting resources.
 - Description:
 - By: Private
 
+---
+
+## Australia
 
 ## Canada
 
+## Denmark
+
+## Finland
+
+## Netherland
+
 ## New Zealand
+
+## Norway
 
 ## Singapore
 
@@ -43,6 +54,14 @@ This list includes the job hunting resources.
 - Description:
 - By: Government
 
+
+## Sweden
+
+## UK
+
+## US
+
+---
 
 []()
 - Description:
