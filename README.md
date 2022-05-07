@@ -3,22 +3,22 @@ This list includes the job hunting resources.
 
 ## Global
 
-### [LinkedIn](https://linkedin.com)
+[LinkedIn](https://linkedin.com)
 
 - Description:
 - By: Private
 
-### [Indeed](https://indeed.com)
+[Indeed](https://indeed.com)
 
 - Description:
 - By: Private
 
-### [Grassdoor](https://grassdoor.com)
+[Grassdoor](https://grassdoor.com)
 
 - Description:
 - By: Private
 
-### [NormadList](http://nomadlist.com)
+[NormadList](http://nomadlist.com)
 
 - Description:
 - By: Private
