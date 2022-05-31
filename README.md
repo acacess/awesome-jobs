@@ -1,4 +1,4 @@
-# Awesome Job
+# Awesome Jobs
 This list includes oversea job hunting resources.
 
 ## Global
