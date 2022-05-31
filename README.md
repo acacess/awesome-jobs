@@ -1,4 +1,4 @@
-# awesome-job-oppotunies
+# Awesome Job Opportunities
 This list includes the job hunting resources.
 
 ## Global
