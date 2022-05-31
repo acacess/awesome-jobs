@@ -1,5 +1,5 @@
-# Awesome Job Opportunities
-This list includes the job hunting resources.
+# Awesome Job
+This list includes oversea job hunting resources.
 
 ## Global
 
