@@ -15,6 +15,9 @@ This list includes oversea job hunting resources.
 [NormadList](http://nomadlist.com)
 - By: Private
 
+[AimVantage](https://aimvantage.uk)
+- By: Private
+- Intro: AI-powered interview preparation. Generates company intel, cover letters, mock questions, and CV fit analysis from a CV + job URL in 90 seconds. 20+ free tools included.
 ---
 
 ## Australia
