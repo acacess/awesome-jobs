@@ -32,6 +32,10 @@ This list includes oversea job hunting resources.
 [Canada Jobs](https://www.canadajobs.com)
 - By: Private
 
+[Hanzilla Jobs](https://jobs.hanzilla.co/)
+- By: Private
+- Intro: Free daily-updated Canadian student and recent-grad jobs board for internships, co-ops, new grad, junior, and entry-level roles across tech, finance, engineering, business, sciences, and more.
+
 ## Denmark
 
 ## Finland
