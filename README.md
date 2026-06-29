@@ -3,6 +3,9 @@ This list includes oversea job hunting resources.
 
 ## Global
 
+[Meridian](https://meridianremote.com)
+- By: Remote tech jobs matched to your timezone for US, LATAM, and EU; aggregated from top boards and ATS feeds
+
 [LinkedIn](https://linkedin.com)
 - By: Private
 
