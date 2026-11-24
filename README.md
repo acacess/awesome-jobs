@@ -15,6 +15,10 @@ This list includes oversea job hunting resources.
 [NormadList](http://nomadlist.com)
 - By: Private
 
+[EuroJobs.ai](https://eurojobs.ai)
+- By: Private
+- Intro: 28,000+ IT jobs across Europe aggregated hourly from 21,000 employers' own career pages (Greenhouse, Lever, Ashby, Workable and others). Filters for country, remote, visa sponsorship and English-speaking teams. Free AI CV and cover-letter tailoring.
+
 ---
 
 ## Australia
